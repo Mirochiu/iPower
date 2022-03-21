@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iPower/static/css/main.cd56e7e7.css",
+    "main.js": "/iPower/static/js/main.ca1f03ec.js",
+    "index.html": "/iPower/index.html",
+    "main.cd56e7e7.css.map": "/iPower/static/css/main.cd56e7e7.css.map",
+    "main.ca1f03ec.js.map": "/iPower/static/js/main.ca1f03ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd56e7e7.css",
+    "static/js/main.ca1f03ec.js"
+  ]
+}
